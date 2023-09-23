@@ -37,7 +37,7 @@ def lambda_handler(event, context):
 
 
 
-# trigger 
+# invoke with example 
 
 {
   "instance_id": "i-0972b665eaf3664dc",
